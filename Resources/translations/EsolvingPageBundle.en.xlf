@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="">
+        <body>
+            <trans-unit id="home">
+                <source>home</source>
+                <target>Home</target>
+            </trans-unit>
+            <trans-unit id="services">
+                <source>services</source>
+                <target>Services</target>
+            </trans-unit>
+            <trans-unit id="contact_us">
+                <source>contact_us</source>
+                <target>Contact us</target>
+            </trans-unit>
+            <trans-unit id="news">
+                <source>news</source>
+                <target>News</target>
+            </trans-unit>
+            <trans-unit id="log_in">
+                <source>log_in</source>
+                <target>Log in</target>
+            </trans-unit>
+            <trans-unit id="code">
+                <source>code</source>
+                <target>Code</target>
+            </trans-unit>
+            <trans-unit id="password">
+                <source>password</source>
+                <target>Password</target>
+            </trans-unit>
+            <trans-unit id="shop">
+                <source>shop</source>
+                <target>Shop</target>
+            </trans-unit>
+            <trans-unit id="log_out">
+                <source>log_out</source>
+                <target>Log out</target>
+            </trans-unit>
+            <trans-unit id="name">
+                <source>name</source>
+                <target>Name</target>
+            </trans-unit>
+            <trans-unit id="email">
+                <source>email</source>
+                <target>Email</target>
+            </trans-unit>
+            <trans-unit id="subject">
+                <source>subject</source>
+                <target>Subject</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>message</source>
+                <target>Message</target>
+            </trans-unit>
+            <trans-unit id="send_form">
+                <source>send_form</source>
+                <target>Send form</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>language</source>
+                <target>Language</target>
+            </trans-unit>
+            <trans-unit id="virtual_campus">
+                <source>virtual_campus</source>
+                <target>Virtual campus</target>
+            </trans-unit>
+            <trans-unit id="and">
+                <source>and</source>
+                <target>and</target>
+            </trans-unit>
+            <trans-unit id="designed">
+                <source>designed</source>
+                <target>Designed</target>
+            </trans-unit>
+            <trans-unit id="developed_by">
+                <source>developed_by</source>
+                <target>Development by</target>
+            </trans-unit>
+            <trans-unit id="my_account">
+                <source>my_account</source>
+                <target>My account</target>
+            </trans-unit>
+            <trans-unit id="profile">
+                <source>profile</source>
+                <target>Profile</target>
+            </trans-unit>
+            <trans-unit id="keep_me_logged_in">
+                <source>keep_me_logged_in</source>
+                <target>Keep me logged in</target>
+            </trans-unit>
+            <trans-unit id="accept">
+                <source>accept</source>
+                <target>Accept</target>
+            </trans-unit>
+            <trans-unit id="are_you_sure_to_change">
+                <source>are_you_sure_to_change</source>
+                <target>Are your sure to change?</target>
+            </trans-unit>
+            <trans-unit id="go_to_campus">
+                <source>go_to_campus</source>
+                <target>Go to campus</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

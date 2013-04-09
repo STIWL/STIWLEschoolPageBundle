@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="validators.en.xlf">
+        <body>
+            <trans-unit id="invalid_email_address">
+                <source>invalid_email_address</source>
+                <target>Dirección de correo electrónico no válido.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

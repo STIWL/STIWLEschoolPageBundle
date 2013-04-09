@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="EsolvingEschoolGuestBunle.en.xlf">
+        <body>
+            <trans-unit id="home">
+                <source>home</source>
+                <target>Inicio</target>
+            </trans-unit>
+            <trans-unit id="services">
+                <source>services</source>
+                <target>Servicios</target>
+            </trans-unit>
+            <trans-unit id="contact_us">
+                <source>contact_us</source>
+                <target>Contáctenos</target>
+            </trans-unit>
+            <trans-unit id="news">
+                <source>news</source>
+                <target>Noticias</target>
+            </trans-unit>
+            <trans-unit id="log_in">
+                <source>log_in</source>
+                <target>Iniciar sesión</target>
+            </trans-unit>
+            <trans-unit id="code">
+                <source>code</source>
+                <target>Código</target>
+            </trans-unit>
+            <trans-unit id="password">
+                <source>password</source>
+                <target>Contraseña</target>
+            </trans-unit>
+            <trans-unit id="shop">
+                <source>shop</source>
+                <target>Tienda</target>
+            </trans-unit>
+            <trans-unit id="log_out">
+                <source>log_out</source>
+                <target>Salir</target>
+            </trans-unit>
+            <trans-unit id="name">
+                <source>name</source>
+                <target>Nombre</target>
+            </trans-unit>
+            <trans-unit id="email">
+                <source>email</source>
+                <target>Correo electrónico</target>
+            </trans-unit>
+            <trans-unit id="subject">
+                <source>subject</source>
+                <target>Sujeto</target>
+            </trans-unit>
+            <trans-unit id="message">
+                <source>message</source>
+                <target>Mensaje</target>
+            </trans-unit>
+            <trans-unit id="send_form">
+                <source>send_form</source>
+                <target>Enviar formulario</target>
+            </trans-unit>
+            <trans-unit id="language">
+                <source>language</source>
+                <target>Lenguaje</target>
+            </trans-unit>
+            <trans-unit id="Bad credentials">
+                <source>Bad credentials</source>
+                <target>Credenciales incorrectas.</target>
+            </trans-unit>
+            <trans-unit id="to_see_this_page_you_must_log_in">
+                <source>to_see_this_page_you_must_log_in</source>
+                <target>Para ver esta pagina, necesitas iniciar sesión.</target>
+            </trans-unit>
+            <trans-unit id="virtual_campus">
+                <source>virtual_campus</source>
+                <target>Campus virtual</target>
+            </trans-unit>
+            <trans-unit id="and">
+                <source>and</source>
+                <target>y</target>
+            </trans-unit>
+            <trans-unit id="designed">
+                <source>designed</source>
+                <target>Diseñado</target>
+            </trans-unit>
+            <trans-unit id="developed_by">
+                <source>developed_by</source>
+                <target>Desarrollado por</target>
+            </trans-unit>
+            <trans-unit id="my_account">
+                <source>my_account</source>
+                <target>Mi cuenta</target>
+            </trans-unit>
+            <trans-unit id="profile">
+                <source>profile</source>
+                <target>Perfíl</target>
+            </trans-unit>
+            <trans-unit id="keep_me_logged_in">
+                <source>keep_me_logged_in</source>
+                <target>No cerrar sesión</target>
+            </trans-unit>
+            <trans-unit id="accept">
+                <source>accept</source>
+                <target>Aceptar</target>
+            </trans-unit>
+            <trans-unit id="are_you_sure_to_change">
+                <source>are_you_sure_to_change</source>
+                <target>¿Está seguro que desea cambiar?</target>
+            </trans-unit>
+            <trans-unit id="go_to_campus">
+                <source>go_to_campus</source>
+                <target>Ir al campus</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
